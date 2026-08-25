@@ -8,3 +8,6 @@ Python cTK UI for using GPT Vision with Image URLs and Local Images
 - Edit Tokens and Temperature
 - Use Image URLs as Input (From Gyazo or anywhere on the web)
 - Drag and Drop Images To Upload
+
+# Archive
+Project is now archived to due this feature being officially included in basically every AI wrapper.
